@@ -1,0 +1,15 @@
+# Obsidian 配置（每台设备不同）
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 临时文件
+.trash/
+.DS_Store
+*.tmp
+
+# 大文件（如果有）
+*.pdf
+*.zip
+*.tar.gz
